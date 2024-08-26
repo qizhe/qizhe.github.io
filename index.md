@@ -6,7 +6,7 @@ title: Home
 <div class="box">
   <h1 id="about-me">About Me</h1>
   <p>I am an incoming Assistant Professor in the <a href="https://engineering.virginia.edu/departments/computer-science" target="_blank">Department of Computer Science at University of Virginia</a> (starting July 2025). Before that, I will be at <a href="https://www.enfabrica.net/" target="_blank">Enfabrica</a>.</p> 
-  <p>My research interests broadly span networking, operating systems, and hardware.</p>
+  <p>My research interests broadly span across networking, operating systems, and hardware.</p>
   <p>Bio: I obtained my Ph.D. (2024) from the <a href="https://www.cs.cornell.edu/" target="_blank">Department of Computer Science at Cornell University</a>, advised by <a href="https://www.cs.cornell.edu/~ragarwal/" target="_blank">Rachit Agarwal</a>. Before joining Cornell, I got my Master of Science degree in the <a href="https://www.cs.princeton.edu/" target="_blank">Department of Computer Science at Princeton University</a>, advised by <a href="https://www.cs.princeton.edu/~jrex/" target="_blank">Jennifer Rexford</a>. I got my Bachelor degree in Computer Science from the <a href="https://www.eecs.umich.edu/" target="_blank">Department of EECS at University of Michigan</a>.</p>
   <div class="highlight-box">
   <p><strong>I have multiple PhD openings for the upcoming Fall 2024 cycle at UVA. If you are interested in working with me, feel free to send me an <a href="mailto:peb2he@virginia.edu">email</a> with your research interests and CV, and apply to the <a href="https://engineering.virginia.edu/department/computer-science/academics/graduate-programs/phd-computer-science" target="_blank">UVA Computer Science program</a>, mentioning my name in your statement.</strong></p>
