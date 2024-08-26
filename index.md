@@ -16,6 +16,7 @@ title: Home
 <div class="box">
   <h1 id="news">News</h1>
   <ul>
+    <li><p>[Aug&rsquo;24] <a href="{{ '/papers/' | relative_url }}">F&S</a> accepted to SOSP24!</p></li>
     <li><p>[Mar&rsquo;24] <a href="{{ '/papers/host-networking-accelerators.pdf' | relative_url }}">Host Networking for AI Accelerators</a> accepted to OSDI24!</p></li>
     <li><p>[Dec&rsquo;23] <a href="{{ '/papers/harmony.pdf' | relative_url }}">Harmony</a> accepted to NSDI24!</p></li>
     <li><p>[May&rsquo;22] <a href="{{ '/papers/netchannel.pdf' | relative_url }}">NetChannel</a> accepted to SIGCOMM22!</p></li>
@@ -27,6 +28,12 @@ title: Home
 
 <div class="box">
   <h1 id="publications">Publications</h1>
+  <div class="publication">
+    <p><strong>Fast and Safe Memory Protection for Networked Systems</strong></p>
+    <p>Benny Rubin, Saksham Agarwal, <b>Qizhe Cai</b>, Rachit Agarwal</p>
+    <p>In <i>ACM SOSP 2024</i></p>
+    <p><a href="{{ '' | relative_url }}">[paper]</a></p>
+  </div>
   <div class="publication">
     <p><strong>High-throughput and Flexible Host Networking for Accelerated Computing</strong></p>
     <p>Athinagoras Skiadopoulos, Zhiqiang Xie, Mark Zhao, <b>Qizhe Cai</b>, Saksham Agarwal, Jacob Adelmann, David Ahern, Carlo Contavalli, Michael Goldflam, Vitaly Mayatskikh, Raghu Raja, Daniel Walton, Rachit Agarwal, Shrijeet Mukherjee, Christos Kozyrakis</p>
@@ -103,7 +110,11 @@ title: Home
 
 <div class="box">
   <h1 id="service">Service</h1>
-  <h3>2023</h3>
+  <h3>Program Committee Member</h3>
+  <ul>
+    <li>SOSP SysDW Workshop (<a href ="https://sysdw24.github.io">2024)</a></li>
+  </ul>
+  <h3>External Reviewer</h3>
   <ul>
     <li>IEEE Transactions on Network and Service Management</li>
     <li>IEEE Transactions on Mobile Computing</li>
