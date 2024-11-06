@@ -29,7 +29,7 @@ title: Home
   <h1 id="publications">Publications</h1>
   <div class="publication">
     <p><strong>Fast & Safe IO Memory Protection</strong></p>
-    <p>Benny Rubin, Saksham Agarwal, <b>Qizhe Cai</b>, Rachit Agarwal</p>
+    <p>Benny Rubin, Saksham Agarwal, Qizhe Cai, Rachit Agarwal</p>
     <p>In <i>ACM SOSP 2024</i></p>
     <p><a href="{{ '' | relative_url }}">[paper]</a></p>
   </div>
