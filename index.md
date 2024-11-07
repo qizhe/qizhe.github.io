@@ -34,6 +34,11 @@ title: Home
     <p><a href="{{ '' | relative_url }}">[paper]</a></p>
   </div>
   <div class="publication">
+    <p><strong>Building Networked Systems for Terabit Ethernet (Ph.D. thesis)</strong></p>
+    <p>Qizhe Cai, Cornell University, August 2024</p>
+    <p><a href="{{ '/papers/phd-thesis.pdf' | relative_url }}">[paper]</a></p>
+  </div>
+  <div class="publication">
     <p><strong>High-throughput and Flexible Host Networking for Accelerated Computing</strong></p>
     <p>Athinagoras Skiadopoulos, Zhiqiang Xie, Mark Zhao, Qizhe Cai, Saksham Agarwal, Jacob Adelmann, David Ahern, Carlo Contavalli, Michael Goldflam, Vitaly Mayatskikh, Raghu Raja, Daniel Walton, Rachit Agarwal, Shrijeet Mukherjee, Christos Kozyrakis</p>
     <p>In <i>USENIX OSDI 2024</i></p>
