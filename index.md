@@ -31,7 +31,7 @@ title: Home
     <p><strong>Fast & Safe IO Memory Protection</strong></p>
     <p>Benny Rubin, Saksham Agarwal, Qizhe Cai, Rachit Agarwal</p>
     <p>In <i>ACM SOSP 2024</i></p>
-    <p><a href="{{ '/papers/fands.pdf' | relative_url }}">[paper]</a></p>
+    <p><a href="{{ '/papers/fands.pdf' | relative_url }}">[paper]</a><a href="https://github.com/host-architecture/Fast-and-Safe-IO-Memory-Protection">[github]</a></p>
   </div>
   <div class="publication">
     <p><strong>Building Networked Systems for Terabit Ethernet (Ph.D. thesis)</strong></p>
