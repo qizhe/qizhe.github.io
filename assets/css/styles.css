@@ -49,6 +49,7 @@ header nav ul li a:hover {
 .sidebar {
   flex: 0 0 200px;
   padding: 20px;
+  max-width: 100%;
 }
 
 .content {
@@ -165,33 +166,27 @@ a:hover {
   margin: 5px 0;
 }
 
-/* Mobile-friendly layout adjustments */
 @media (max-width: 768px) {
   .container {
     flex-direction: column;
-    padding: 10px;
+    padding: 0;
   }
 
-  .sidebar {
-    flex: 1;
-    padding: 10px;
-  }
-
-  .content {
+  .sidebar, .content {
     flex: 1;
     padding: 15px;
-    margin-top: 20px;
+  }
+
+  .profile-image {
+    max-width: 50px; /* Reduce image size on mobile */
   }
 
   header nav ul {
     flex-direction: column;
     align-items: center;
-    gap: 10px;
   }
 
   .social-links {
-    flex-direction: row;
-    flex-wrap: wrap;
     justify-content: center;
   }
 
@@ -200,4 +195,3 @@ a:hover {
     margin-top: 30px;
   }
 }
-
