@@ -42,6 +42,8 @@ header nav ul li a:hover {
   max-width: 1200px;
   margin: 0 auto;
   padding: 20px;
+  width: 100%;
+  box-sizing: border-box;
 }
 
 .sidebar {
@@ -134,6 +136,8 @@ a:hover {
 .box img {
   display: block;
   margin: 20px auto;
+  max-width: 100%;
+  height: auto;
 }
 
 /* New styles for the highlight box */
@@ -160,3 +164,40 @@ a:hover {
 .publication p {
   margin: 5px 0;
 }
+
+/* Mobile-friendly layout adjustments */
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+    padding: 10px;
+  }
+
+  .sidebar {
+    flex: 1;
+    padding: 10px;
+  }
+
+  .content {
+    flex: 1;
+    padding: 15px;
+    margin-top: 20px;
+  }
+
+  header nav ul {
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .social-links {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  footer {
+    position: static;
+    margin-top: 30px;
+  }
+}
+
