@@ -1,5 +1,6 @@
 body {
   font-family: 'Source Sans Pro', serif;
+  font-size: 17px; /* Slightly increased from default */
   line-height: 1.6;
   margin: 0;
   padding: 0;
