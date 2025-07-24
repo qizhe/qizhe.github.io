@@ -178,7 +178,7 @@ a:hover {
   }
 
   .profile-image {
-    max-width: 50px; /* Reduce image size on mobile */
+    max-width: 70px; /* Reduce image size on mobile */
   }
 
   header nav ul {
@@ -204,5 +204,5 @@ a:hover {
     position: static;
     margin-top: 30px;
   }
-  
+
 }
