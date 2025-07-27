@@ -124,3 +124,11 @@ title: Home
     <li>IEEE Network Magazine</li>
   </ul>
 </div>
+
+<div class="box">
+  <h1 id="awards">Awards</h1>
+  <ul>
+    <li><p> <a href="https://research.facebook.com/blog/2022/2/announcing-the-recipients-of-the-2022-meta-phd-research-fellowship/">Meta Fellowship 2022</a></p></li>
+  </ul>
+
+</div>
