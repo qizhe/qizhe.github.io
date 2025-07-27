@@ -98,18 +98,11 @@ title: Home
 <div class="box">
   <h1 id="teaching">Teaching</h1>
 
-  <h3>Cornell University</h3>
+  <h3>University of Virginia</h3>
   <ul>
-    <li><p>Fall 2020: Teaching Assistant for <a href="http://www.cs.cornell.edu/courses/cs4450/2020sp/">CS 4450: Introduction to Computer Networks</a></p></li>
-    <li><p>Fall 2018: Teaching Assistant for <a href="http://www.cs.cornell.edu/courses/cs4321/2018fa/">CS 4321/5321: Practicum in Database Systems</a></p></li>
+    <li><p>Fall 2025: <a href="https://www.qizhecai.com/cs6501-fall25/">CS 6501: Datacenter Network Infrastructure </a></p></li>
   </ul>
 
-  <h3>Princeton University</h3>
-  <ul>
-    <li><p>Fall 2017: Teaching Assistant for <a href="http://www.cs.princeton.edu/courses/archive/fall17/cos318/">COS 318: Introduction to Operating Systems</a></p></li>
-    <li><p>Spring 2017: Teaching Assistant for <a href="http://www.cs.princeton.edu/courses/archive/spring17/cos333/">COS 333: Advanced Programming Techniques</a></p></li>
-    <li><p>Fall 2016: Teaching Assistant for <a href="http://www.cs.princeton.edu/courses/archive/fall16/cos318/">COS 318: Introduction to Operating Systems</a></p></li>
-  </ul>
 </div>
 
 <div class="box">
