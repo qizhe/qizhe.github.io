@@ -17,6 +17,7 @@ title: Home
 <div class="box">
   <h1 id="news">News</h1>
   <ul>
+    <li><p><strong>[Dec ’25]</strong> Serving on the <a href="https://conferences.sigcomm.org/co-next/2026/#!/home">CoNEXT’26 Program Committee</a>.</p></li>
    <li><p><strong>[Oct ’25]</strong> Giving an invited talk at <a href="https://gitlab.com/purnet-lab/purnet-lab.gitlab.io/-/wikis/Weekly-Seminar">Purdue University</a>.</p></li>
     <li><p><strong>[Oct ’25]</strong> Giving a guest lecture at <a href="https://www.skku.edu/eng/index.do">Sungkyunkwan University</a>.</p></li>
     <li><p><strong>[July ’25]</strong> Co-chairing the <a href="https://conferences.sigcomm.org/sigcomm/2025/">SIGCOMM’25 Artifact Evaluation Committee</a>.</p></li>
