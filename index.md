@@ -103,6 +103,7 @@ title: Home
 
   <h3>University of Virginia</h3>
   <ul>
+    <li><p>Spring 2026: <a href="https://www.qizhecai.com/cs4457-sp26/">CS 4457: Computer Networks </a></p></li>
     <li><p>Fall 2025: <a href="https://www.qizhecai.com/cs6501-fall25/">CS 6501: Datacenter Network Infrastructure </a></p></li>
   </ul>
 
@@ -113,6 +114,7 @@ title: Home
 
   <h3>Program Committee Member</h3>
   <ul>
+    <li><a href="https://conferences.sigcomm.org/co-next/2026/#!/home">CONEXT 2026</a></li>
     <li><a href="https://www.usenix.org/conference/nsdi26#venue">NSDI 2026</a></li>
     <li><a href="https://conferences.sigcomm.org/sigcomm/2025/">SIGCOMM 2025 (AEC Co-Chair)</a></li>
     <li><a href="https://sysdw24.github.io">SOSP SysDW Workshop 2024</a></li>
