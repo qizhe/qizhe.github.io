@@ -4,55 +4,69 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title }}</title>
+
   <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap">
-  <link href="https://fonts.googleapis.com/css2?family=Source Sans Pro&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700&display=swap" rel="stylesheet">
 </head>
 <body>
   <header>
     <nav>
       <ul>
-        <li class="name"><a href="{{ '/' | relative_url }}"><span>Qizhe Cai</a></span></li>
-	<li><a href="{{ '/' | relative_url }}">Home</a></li>
-        <li><a href="{{ '/' | relative_url }}#about-me">About Me</a></li>
+        <li class="name">
+          <a href="{{ '/' | relative_url }}">Qizhe Cai</a>
+        </li>
+        <li><a href="{{ '/' | relative_url }}">Home</a></li>
+        <li><a href="{{ '/' | relative_url }}#about">About</a></li>
         <li><a href="{{ '/' | relative_url }}#news">News</a></li>
+        <li><a href="{{ '/' | relative_url }}#students">Students</a></li>
         <li><a href="{{ '/' | relative_url }}#publications">Publications</a></li>
         <li><a href="{{ '/' | relative_url }}#teaching">Teaching</a></li>
-        <li><a href="{{ '/' | relative_url }}#service">Service</a></li> 
-     </ul>
+        <li><a href="{{ '/' | relative_url }}#service">Service</a></li>
+        <li><a href="{{ '/' | relative_url }}#awards">Awards</a></li>
+      </ul>
     </nav>
   </header>
+
   <div class="container">
-    <aside class="sidebar">
-      <img src="{{ '/assets/images/qizhec.jpeg' | relative_url }}" alt="Profile Picture" class="profile-image">
+<!--     <aside class="sidebar">
+      <img src="{{ '/assets/images/qizhec.jpeg' | relative_url }}" alt="Qizhe Cai" class="profile-image">
+
+      <div class="name-block">
+        <h1>Qizhe Cai</h1>
+        <div class="title">Assistant Professor</div>
+        <div class="contact-line">Department of Computer Science</div>
+        <div class="contact-line">University of Virginia</div>
+        <div class="contact-line">
+          <a href="mailto:caiqizhe@virginia.edu">caiqizhe@virginia.edu</a>
+        </div>
+      </div>
+
       <div class="social-links">
-        <a href="https://x.com/CaiQizhe" target="_blank">
-          <i class="fab fa-twitter"></i>
+        <a href="https://scholar.google.com/citations?user=Meb0eTcAAAAJ&hl=en" target="_blank" rel="noopener noreferrer" aria-label="Google Scholar">
+          <i class="fas fa-graduation-cap"></i> Scholar
         </a>
-        <a href="https://www.linkedin.com/in/qizhe-cai-9b14868b" target="_blank">
-          <i class="fab fa-linkedin"></i>
+        <a href="https://www.linkedin.com/in/qizhe-cai-9b14868b" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+          <i class="fab fa-linkedin"></i> LinkedIn
         </a>
-        <a href="/assets/resume.pdf" target="_blank">
-          <i class="fas fa-file"></i>
+        <a href="https://x.com/CaiQizhe" target="_blank" rel="noopener noreferrer" aria-label="X">
+          <i class="fab fa-twitter"></i> X
         </a>
-        <a href="https://scholar.google.com/citations?user=Meb0eTcAAAAJ&hl=en" target="_blank">
-          <i class="fas fa-graduation-cap"></i>
+        <a href="{{ '/assets/resume.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer" aria-label="CV">
+          <i class="fas fa-file"></i> CV
         </a>
       </div>
-    </aside>
+    </aside> -->
+
     <main class="content">
       {{ content }}
     </main>
   </div>
-<style>
-  #eXF-qizhecai-0 {
-    display: none !important;
-  }
-</style>
-<!--   <footer>
-    <p>&copy; 2025 Qizhe Cai. All rights reserved.</p>
-  </footer> -->
+
+  <style>
+    #eXF-qizhecai-0 {
+      display: none !important;
+    }
+  </style>
 </body>
 </html>
-
