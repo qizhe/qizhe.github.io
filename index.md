@@ -47,19 +47,20 @@ title: Qizhe Cai
         My research broadly spans computer networks, operating systems, and computer hardware.
       </p>
 
-      <div class="highlight-box">
+<!--       <div class="highlight-box">
         <p>
           I am recruiting Ph.D. students for Fall 2026. If you are interested in working with me,
           please email me with your CV and research interests. Please also apply to the
           <a href="https://engineering.virginia.edu/department/computer-science/academics/graduate-programs/phd-computer-science">UVA CS Ph.D. program</a>
           and mention my name in your statement.
         </p>
-      </div>
+      </div> -->
     </div>
 
     <div class="box">
       <h2 id="news">News</h2>
       <ul class="news-list">
+		<li><strong>[May ’26]</strong> Understanding Network Stack Latency is accepted to <strong>SIGCOMM ’26</strong>. Congrats to Tianyu!</li>
         <li><strong>[Mar ’26]</strong> Sepia is accepted to <strong>OSDI ’26</strong>.</li>
         <li><strong>[Feb ’26]</strong> Serving on the <a href="https://conferences.sigcomm.org/sigcomm/2026/#!/home">SIGCOMM ’26 Program Committee</a>.</li>
         <li><strong>[Dec ’25]</strong> Serving on the <a href="https://conferences.sigcomm.org/co-next/2026/#!/home">CoNEXT ’26 Program Committee</a>.</li>
@@ -80,7 +81,12 @@ title: Qizhe Cai
 
     <div class="box">
       <h2 id="publications">Selected Publications</h2>
-
+	  <div class="publication">
+	 	<p><strong>Understanding Host Network Stack Latency</strong><br>
+	  	Tianyu Zuo, Jaehyun Hwang, Ao Tang, Rachit Agarwal, Qizhe Cai<br>
+	  	<i>ACM SIGCOMM 2026</i><br>
+	  	<a href="#">[paper]</a></p>
+	  </div>
       <div class="publication">
         <p><strong>When DDIO Meets Page Coloring: Revisiting DDIO Performance with Sepia</strong><br>
         Changwoo Song, Sanghyun Kim, Jinhyeok Oh, Qizhe Cai, Joonsung Kim, Jaehyun Hwang<br>
